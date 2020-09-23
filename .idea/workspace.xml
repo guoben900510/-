@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8aaa636-cb8f-49ef-87c1-6f4659cfcc5e" name="默认更改列表" comment="" />
+    <list default="true" id="b8aaa636-cb8f-49ef-87c1-6f4659cfcc5e" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +64,7 @@
     <property name="project.structure.last.edited" value="模块" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.JavaScript" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -264,7 +266,8 @@
       <option name="presentableId" value="Default" />
       <updated>1600658129093</updated>
       <workItem from="1600658133121" duration="9971000" />
-      <workItem from="1600734228856" duration="10428000" />
+      <workItem from="1600734228856" duration="11691000" />
+      <workItem from="1600820602899" duration="1626000" />
     </task>
     <servers />
   </component>
@@ -276,7 +279,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
